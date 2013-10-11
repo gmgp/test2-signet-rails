@@ -36,3 +36,8 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+gem 'figaro'
+
+gem 'google-api-client', :require => 'google/api_client'
+gem 'signet-rails', '>= 0.0.6'
